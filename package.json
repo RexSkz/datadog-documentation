@@ -59,7 +59,7 @@
         "json2csv": "^4.5.4",
         "lazypipe": "1.0.2",
         "lodash": "^4.17.21",
-        "marked": "^1.2.9",
+        "marked": "^4.0.10",
         "merge-stream": "2.0.0",
         "minimist": "^1.2.8",
         "mixitup": "^3.3.1",
@@ -102,7 +102,7 @@
         "rimraf": "^3.0.2",
         "run-sequence": "^2.2.1",
         "sass": "^1.72.0",
-        "serialize-javascript": "^2.1.2"
+        "serialize-javascript": "^6.0.2"
     },
     "hugo-bin": {
         "buildTags": "extended"
